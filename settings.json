@@ -1,0 +1,319 @@
+{
+   "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+   "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+   "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+   "auto-close-tag.disableOnLanguage": ["typescript", "typescriptreact"],
+   "breadcrumbs.enabled": false,
+   "catppuccin.italicKeywords": false,
+   "css.lint.unknownAtRules": "ignore",
+   "debug.terminal.clearBeforeReusing": true,
+   "diffEditor.wordWrap": "off",
+   "editor.acceptSuggestionOnCommitCharacter": false,
+   "editor.accessibilitySupport": "off",
+   "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+   "editor.codeActionsOnSave": {
+      "source.sortImports": "explicit"
+   },
+   "editor.fontLigatures": true,
+   "editor.fontSize": 18,
+   "editor.formatOnPaste": true,
+   "editor.formatOnSave": true,
+   "editor.formatOnType": true,
+   "editor.guides.bracketPairs": "active",
+   "editor.inlayHints.enabled": "on",
+   "editor.inlineSuggest.enabled": true,
+   "editor.linkedEditing": true,
+   "editor.minimap.enabled": false,
+   "editor.multiCursorModifier": "ctrlCmd",
+   "html.format.wrapAttributes": "force-expand-multiline",
+   "editor.parameterHints.enabled": false,
+   "editor.quickSuggestions": {
+      "comments": false,
+      "other": true,
+      "strings": true
+   },
+   "editor.quickSuggestionsDelay": 10,
+   "editor.smoothScrolling": true,
+   "editor.suggest.insertMode": "replace",
+   "editor.suggestFontSize": 16,
+   "editor.suggestSelection": "first",
+   "editor.wordWrap": "on",
+   "emmet.includeLanguages": {
+      "blade": "html",
+      "ejs": "html",
+      "javascript": "javascriptreact",
+      "php": "html",
+      "typescript": "typescriptreact"
+   },
+   "emmet.showExpandedAbbreviation": "always",
+   "emmet.showSuggestionsAsSnippets": true,
+   "emmet.syntaxProfiles": {
+      "ejs": "html",
+      "php": "html",
+      "vue": "html",
+      "vue-html": "html"
+   },
+   "emmet.useInlineCompletions": true,
+   "explorer.compactFolders": false,
+   "explorer.confirmDelete": false,
+   "explorer.confirmDragAndDrop": false,
+   "extensions.autoUpdate": "onlyEnabledExtensions",
+   "extensions.ignoreRecommendations": false,
+   "files.associations": {
+      "*.ejs": "html",
+      "*.php": "php",
+      "*.vue": "vue"
+   },
+   "files.exclude": {
+      "**/.classpath": true,
+      "**/.factorypath": true,
+      "**/.project": true,
+      "**/.settings": true
+   },
+   "git.autofetch": true,
+   "git.openRepositoryInParentFolders": "always",
+   "html.format.templating": true,
+   "javascript.updateImportsOnFileMove.enabled": "always",
+   "js-beautify.indent_size": 3,
+   "liveServer.settings.donotShowInfoMsg": true,
+   "liveServer.settings.donotVerifyTags": true,
+   "liveServer.settings.fullReload": true,
+   "material-icon-theme.folders.color": "#42a5f5",
+   "material-icon-theme.folders.theme": "specific",
+   "php.suggest.basic": false,
+   "prettier.arrowParens": "avoid",
+   "prettier.bracketSameLine": false,
+   "prettier.bracketSpacing": true,
+   "prettier.endOfLine": "lf",
+   "prettier.printWidth": 100,
+   "prettier.proseWrap": "always",
+   "prettier.semi": false,
+   "prettier.singleAttributePerLine": false,
+   "prettier.singleQuote": true,
+   "prettier.quoteProps": "consistent",
+   "prettier.jsxSingleQuote": true,
+   "prettier.tabWidth": 3,
+   "prettier.trailingComma": "all",
+   "prettier.useTabs": false,
+   "prettier.vueIndentScriptAndStyle": true,
+   "reactSnippets.settings.prettierEnabled": true,
+   "security.workspace.trust.startupPrompt": "never",
+   "sortJSON.orderOverride": [
+      "name",
+      "version",
+      "main",
+      "module",
+      "types",
+      "typings",
+      "files",
+      "publishConfig",
+      "repository",
+      "scripts",
+      "prefix",
+      "description",
+      "body"
+   ],
+   "sortJSON.orderUnderride": [
+      "resolutions",
+      "dependencies",
+      "devDependencies",
+      "peerDependencies",
+      "cSpell.userWords"
+   ],
+   "tailwind-fold.autoFold": false,
+   "tailwindCSS.emmetCompletions": true,
+   "tailwindCSS.includeLanguages": {
+      "css": "css",
+      "html": "html",
+      "javascript": "javascript"
+   },
+   "terminal.external.osxExec": "iTerm.app",
+   "terminal.integrated.defaultProfile.osx": "zsh",
+   "terminal.integrated.env.osx": {
+      "FIG_NEW_SESSION": "1"
+   },
+   "terminal.integrated.fontSize": 16,
+   "typescript.preferences.importModuleSpecifier": "non-relative",
+   "typescript.updateImportsOnFileMove.enabled": "always",
+   "update.showReleaseNotes": false,
+   "vsintellicode.modify.editor.suggestSelection": "choseToUpdateConfiguration",
+   "vue.autoInsert.dotValue": true,
+   "vue.updateImportsOnFileMove.enabled": true,
+   "workbench.editor.labelFormat": "short",
+   "workbench.iconTheme": "catppuccin-mocha",
+   "editor.fontFamily": "\"Hack Nerd Font\", Menlo, Monaco, 'Courier New', monospace",
+   "path-intellisense.autoTriggerNextSuggestion": true,
+   "editor.stickyScroll.enabled": false,
+   "apc.font.family": "Geist Mono",
+   "apc.monospace.font.family": "Geist Mono",
+   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+   "javascript.preferences.importModuleSpecifier": "non-relative",
+   "editor.cursorBlinking": "solid",
+   "workbench.tree.renderIndentGuides": "none",
+   "workbench.startupEditor": "none",
+   "workbench.tips.enabled": false,
+   "workbench.colorCustomizations": {
+      "editorSuggestWidget.selectedBackground": "#006050",
+      "list.activeSelectionBackground": "#006050",
+      "list.inactiveSelectionBackground": "#006050",
+      "list.focusBackground": "#006050",
+      "list.hoverBackground": "#006050",
+      "editorCursor.background": "#006050",
+      "editorCursor.foreground": "#00ffb7",
+      "statusBar.background": "#00ffb7",
+      "statusBar.foreground": "#000"
+   },
+   "editor.cursorSmoothCaretAnimation": "off",
+   "editor.tabSize": 3,
+   "editor.detectIndentation": false,
+   "css.enabledLanguages": ["html"],
+   "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+   "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+   "editor.lineHeight": 2,
+   "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   },
+   "workbench.colorTheme": "React Theme",
+   "terminal.integrated.enableMultiLinePasteWarning": false,
+   "vim.foldfix": true,
+   "vim.highlightedyank.color": "rgba(230, 97, 89, 0.7)",
+   "vim.highlightedyank.enable": true,
+   "vim.highlightedyank.textColor": "white",
+   "vim.hlsearch": true,
+   "vim.leader": "<space>",
+   "vim.insertModeKeyBindingsNonRecursive": [
+      {
+         "before": ["j", "k"],
+         "after": ["<Esc>"]
+      }
+   ],
+   "vim.normalModeKeyBindingsNonRecursive": [
+      // switch b/w buffers
+      { "before": ["<C-h>"], "commands": [":bprevious"] },
+      { "before": ["<C-l>"], "commands": [":bnext"] },
+
+      // splits
+      { "before": ["leader", "v"], "commands": [":vsplit"] },
+      { "before": ["leader", "s"], "commands": [":split"] },
+
+      // panes
+      {
+         "before": ["leader", "h"],
+         "commands": ["workbench.action.focusLeftGroup"]
+      },
+      {
+         "before": ["leader", "j"],
+         "commands": ["workbench.action.focusBelowGroup"]
+      },
+      {
+         "before": ["leader", "k"],
+         "commands": ["workbench.action.focusAboveGroup"]
+      },
+      {
+         "before": ["leader", "l"],
+         "commands": ["workbench.action.focusRightGroup"]
+      },
+
+      { "before": ["leader", "f"], "commands": ["workbench.action.quickOpen"] },
+      { "before": ["leader", "p"], "commands": ["editor.action.formatDocument"] },
+
+      {
+         "before": ["leader", "r"],
+         "commands": ["editor.action.rename"]
+      },
+      {
+         "before": ["leader", "w"],
+         "commands": [":w!"]
+      },
+      {
+         "before": ["leader", "q"],
+         "commands": [":q!"]
+      },
+      {
+         "before": ["leader", "x"],
+         "commands": [":x!"]
+      },
+      {
+         "after": ["g", "g", "V", "G"],
+         "before": ["<c-a>"]
+      },
+      {
+         "before": ["<leader>", "d"],
+         "commands": ["editor.action.showHover"]
+      },
+      {
+         "before": ["[", "d"],
+         "commands": ["editor.action.marker.prev"]
+      },
+      {
+         "before": ["]", "d"],
+         "commands": ["editor.action.marker.next"]
+      },
+      {
+         "before": ["<leader>", "c", "a"],
+         "commands": ["editor.action.quickFix"]
+      },
+      {
+         "after": ["^"],
+         "before": ["H"]
+      },
+      {
+         "after": ["$"],
+         "before": ["L"]
+      },
+      {
+         "before": ["leader", "i"],
+         "commands": ["extension.toggleBool"]
+      },
+      {
+         "before": ["g", "p", "d"],
+         "commands": ["editor.action.peekDefinition"]
+      },
+      {
+         "before": ["g", "h"],
+         "commands": ["editor.action.showDefinitionPreviewHover"]
+      },
+      {
+         "before": ["g", "i"],
+         "commands": ["editor.action.goToImplementation"]
+      },
+      {
+         "before": ["g", "p", "i"],
+         "commands": ["editor.action.peekImplementation"]
+      },
+      {
+         "before": ["g", "r"],
+         "commands": ["editor.action.referenceSearch.trigger"]
+      },
+      {
+         "before": ["g", "t"],
+         "commands": ["editor.action.goToTypeDefinition"]
+      },
+      {
+         "before": ["g", "p", "t"],
+         "commands": ["editor.action.peekTypeDefinition"]
+      },
+      {
+         "after": ["g", "g", "V", "G"],
+         "before": ["<c-a>"]
+      }
+   ],
+   "vim.smartRelativeLine": true,
+   "vim.useSystemClipboard": true,
+   "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
+   "editor.lineNumbers": "relative",
+   "editor.cursorSurroundingLines": 8,
+   "[vue]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   }
+}
